@@ -1,0 +1,1221 @@
+.fa-solid {
+    color: rgb(88, 85, 85);
+    /* margin-right: 8px; */
+    padding-left: 40px;
+}
+
+.text-color {
+    color: rgb(88, 85, 85);
+    text-decoration: none;
+}
+
+.list-item li {
+
+    list-style-type: none;
+    padding: 10px;
+    width: 90%;
+    border-top: 1px solid #251f1f;
+    border-left: 1px solid #251f1f;
+    border-right: 1px solid #251f1f;
+}
+
+.list-item .layout {
+    border-bottom: 1px solid #251f1f;
+    ;
+}
+
+.header-one {
+    width: 100%;
+}
+
+.photo {
+    position: relative;
+    width: 100%;
+}
+
+.photo img {
+    width: 100%;
+}
+
+.user-name {
+    color: white;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    margin: 0px;
+    font-size: 20px;
+    background-color: rgba(56, 143, 230, 0.8);
+    width: 100%;
+    text-align: center;
+    padding: 4px 0;
+}
+
+.list-item {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.img-tag {
+    width: 100%;
+    height: 628px;
+    object-fit: cover;
+    filter: blur(0px) brightness(0.8);
+
+}
+
+.hero-image {
+    width: 100%;
+    height: 90%;
+
+
+
+}
+
+header {
+
+    width: 100%;
+}
+
+.headers {
+    width: 15%;
+    /* background-color: black */
+}
+
+.container {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+
+
+}
+
+.container .fa-brands {
+    color: rgb(88, 85, 85);
+    padding: 5px;
+    font-size: 20px;
+}
+
+.content {
+    color: rgb(88, 85, 85);
+    font-size: 12px;
+    text-align: center;
+    margin: 0px;
+    padding-bottom: 20px;
+
+
+}
+
+.share-it {
+    margin-top: 100px;
+}
+
+.container .fa-brands:hover {
+    color: white;
+}
+
+.user-data {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+
+.input-data {
+    font-size: 25px;
+    font-family: "Playfair Display", serif;
+}
+
+.user-data-id {
+    margin-bottom: 20px;
+    font-size: 55px;
+    text-align: center;
+}
+
+.user-role-data {
+    font-size: 36px;
+    font-weight: 900;
+    margin: 0px;
+}
+
+.user-role {
+    width: 65%;
+    margin-bottom: 20px;
+    margin: 0px;
+
+
+}
+
+.second-name {
+    color: rgba(56, 143, 230, 0.8);
+    font-weight: 900;
+}
+
+.resume-header i {
+    color: rgba(56, 143, 230, 0.8);
+}
+
+.section-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0px 50px;
+    color: rgba(56, 143, 230, 0.8);
+    border-bottom: dotted rgba(236, 240, 243, 0.8);
+}
+
+.about-page {
+    background-color: #2d2e2f;
+}
+
+.user-role {
+    color: white;
+
+
+
+}
+
+.content-data {
+    text-align: left;
+    width: 80%;
+    margin-left: 48px;
+}
+
+.content-data h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bio-data h1 {
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.list-point {
+
+    width: 100%;
+    list-style-type: none;
+    line-height: 28px;
+    font-size: 18px;
+    padding-left: 20px;
+}
+
+.points {
+    width: 70%;
+    margin: 0px 28px;
+}
+
+.signature {
+    display: flex;
+    justify-content: left;
+    width: 60%;
+    margin-left: 60px;
+}
+
+.personal-data {
+    padding-left: 0px;
+}
+
+.personal-data li {
+    font-size: 18px;
+}
+
+.content-web li {
+    margin-left: 64px;
+}
+
+.bio-data {
+    width: 28%;
+    position: relative;
+    top: 0px;
+    left: 20px;
+    color: white;
+
+
+}
+
+.sub-page {
+    display: flex;
+    justify-content: left;
+    width: 100%;
+}
+
+.personal-data li {
+
+    list-style-type: none;
+
+}
+
+.personal-data li {
+    line-height: 2rem;
+}
+
+.bio-datas {
+    text-decoration: underline;
+    text-decoration-color: rgba(56, 143, 230, 0.8);
+    font-weight: 700;
+    font-family: "Playfair Display", serif;
+}
+
+.title-bold {
+    font-weight: 900;
+}
+
+.download-resume {
+    margin-top: 20px;
+    padding: 5px;
+    border: 2px solid rgba(56, 143, 230, 0.8);
+    color: rgba(56, 143, 230, 0.8);
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+#unique-data {
+    display: grid;
+    justify-content: left;
+}
+
+#unique-data:hover .download-resume {
+    background-color: rgba(56, 143, 230, 0.8);
+    color: black;
+    border: 3px solid #2d2e2f;
+}
+
+.download-resume {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+
+.back-color {
+    position: relative;
+    top: 0px;
+    left: 244px;
+
+}
+
+.resume-header {
+    display: flex;
+    justify-content: space-between;
+    width: 93%;
+    border-bottom: dotted white;
+    padding: 0px 50px;
+
+}
+
+.resume-data {
+    background-color: #2d2e2f;
+}
+
+.resume-header {
+    color: rgba(56, 143, 230, 0.8);
+}
+
+.fa-solid {
+    color: rgba(56, 143, 230, 0.8);
+}
+
+.user-experence {
+    padding-left: 50px;
+    color: white;
+    width: 93%;
+
+}
+
+.company-name {
+    color: rgba(56, 143, 230, 0.8);
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+a {
+    display: block;
+}
+
+.design-one.fa-square {
+    position: relative;
+    top: 1px;
+    left: 1px;
+    font-size: 16px;
+    color: rgba(56, 143, 230, 0.8);
+    text-align: center;
+}
+
+.fa-solid.fa-square {
+    color: rgba(56, 143, 230, 0.8);
+}
+
+.fa-solid.fa-briefcase {
+    color: rgb(249, 250, 252);
+}
+
+
+.fas-border {
+    border-left: 3px solid rgba(56, 143, 230, 0.8);
+    position: relative;
+    top: 0px;
+    left: 6px;
+
+}
+
+.design-one {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.web-layout {
+    padding-left: 50px;
+}
+
+.design-one {
+
+    margin-bottom: 0px;
+}
+
+.style-data {
+    font-weight: 900;
+}
+
+.exp-key-data {
+    display: flex;
+}
+
+.sub-design {
+    width: 70%;
+}
+
+.sub-head {
+    background-color: #2d2e2f;
+}
+
+.sub-designs {
+    width: 70%;
+}
+
+.code-skill-spect {
+    display: flex;
+    justify-content: center;
+}
+
+.code-skill {
+    width: 23%;
+}
+
+.key-skill li {
+    list-style-type: none;
+    padding: 5px;
+    text-align: center;
+    width: 80%;
+    margin-bottom: 15px;
+    border: 3px solid rgba(56, 143, 230, 0.8);
+    text-transform: uppercase;
+    font-weight: 700;
+    border-radius: 10px;
+}
+
+.key-skill li:hover {
+    background-color: rgba(56, 143, 230, 0.8);
+    color: #251f1f;
+}
+
+.head-data-structure {
+    margin-bottom: 0px;
+    border-bottom: 5px solid rgba(56, 143, 230, 0.8);
+}
+
+.exp-data h1 {
+    margin-bottom: 0px;
+    border-bottom: 5px solid rgba(56, 143, 230, 0.8);
+
+
+    font-weight: 900;
+}
+
+.exp-data {
+    display: flex;
+    justify-content: left;
+}
+
+.exp-data {
+    text-align: center;
+}
+
+.header-resume {
+    font-family: "Playfair Display", serif;
+}
+
+.master-head {
+    display: flex;
+    justify-content: end;
+    text-align: center;
+    width: 72%;
+    align-items: center;
+}
+
+
+.fa-solid {
+    color: rgb(88, 85, 85);
+    margin-right: 8px;
+    padding: 0px;
+}
+
+.text-color a {
+    color: rgb(88, 85, 85);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.list-item a:hover {
+    color: white;
+}
+
+.list-item {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.list-item li {
+    margin-right: 20px;
+    padding: 5px;
+    border-top: 1px solid #251f1f;
+    border-left: 1px solid #251f1f;
+    border-right: 1px solid #251f1f;
+    background-color: #2d2e2f;
+
+}
+
+.list-item {
+    width: 80%;
+}
+
+
+
+.list-item li:hover {
+    background-color: #353a40;
+}
+
+.list-item li:hover a,
+.list-item li:hover a i {
+    color: white;
+    /* Change text and icon to white on hover */
+}
+
+.header-one {
+    width: 100%;
+}
+
+.photo {
+    position: relative;
+    width: 12%;
+    text-align: center;
+}
+
+.photo img {
+    width: 100%;
+    height: auto;
+}
+
+.user-name {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+    font-size: 20px;
+    background-color: rgba(56, 143, 230, 0.8);
+    width: 100%;
+    text-align: center;
+    padding: 4px 0;
+}
+
+
+.headers {
+    width: 100%;
+    background-color: black;
+
+}
+
+.container {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.container .fa-brands {
+    color: rgb(88, 85, 85);
+    padding: 5px;
+    font-size: 20px;
+}
+
+.container .fa-brands:hover {
+    color: white;
+}
+
+.content-data {
+    text-align: left;
+}
+
+.content {
+    color: rgb(88, 85, 85);
+    font-size: 12px;
+    margin: 0;
+    padding-bottom: 20px;
+}
+
+.share-it {
+    margin-top: 100px;
+}
+
+
+
+.portfolio-head {
+    color: #585b5e;
+    display: flex;
+    justify-content: left;
+    width: 22%;
+    align-items: center;
+
+
+}
+
+.portfolio-head h1 {
+    margin: 10px;
+}
+
+
+
+
+
+.sticky-header {
+    position: sticky;
+    top: 0; /* This makes it stick to the top */
+    z-index: 1000; /* Optional: ensures it stays above other content */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: adds a shadow for effect */
+}
+
+
+
+
+
+.container-layout {
+    display: flex;
+    justify-content: center;
+}
+
+.contact-me {
+    background-color: #2d2e2f;
+}
+
+.cont-text-input {
+    display: flex;
+    justify-content: center;
+    color: white;
+
+}
+
+.cont-text-input h1 {
+    border-bottom: 4px solid rgba(56, 143, 230, 0.8);
+}
+
+.input-user-data {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+
+}
+
+.input-name input {
+
+    width: 100%;
+    height: 37px;
+    background-color: #2d2e2f;
+    border: 2px solid white;
+    font-weight: 500;
+    font-size: 18px;
+    color: white;
+}
+
+.input-email input {
+    width: 100%;
+    height: 37px;
+    background-color: #2d2e2f;
+    border: 2px solid white;
+    font-weight: 500;
+    font-size: 18px;
+    color: white;
+}
+
+.input-name {
+    width: 24%;
+}
+
+.input-email {
+    width: 23%;
+}
+
+.text-area {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.text-area textarea {
+    width: 48%;
+    margin-top: 21px;
+    height: 122px;
+    background-color: #2d2e2f;
+    border: 2px solid white;
+    font-weight: 500;
+    font-size: 20px;
+    color: white;
+}
+
+.submit-btn button {
+    width: 14%;
+    height: 37px;
+    background-color: #2d2e2f;
+    border: 2px solid rgba(56, 143, 230, 0.8);
+    font-weight: 600;
+    font-size: 16px;
+    color: rgba(56, 143, 230, 0.8);
+    margin-top: 22px;
+    text-transform: uppercase;
+}
+
+.submit-btn {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.submit-btn button:hover {
+    background-color: rgba(56, 143, 230, 0.8);
+    color: #2d2e2f;
+}
+
+.contact-location {
+    display: flex;
+    justify-content: center;
+    gap: 17%;
+    text-align: center;
+}
+
+.input-data {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.contact-data .fa-envelope {
+    font-size: 30px;
+    color: rgba(56, 143, 230, 0.8);
+}
+
+.mail-text a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.contact-data .fa-location-dot {
+    font-size: 30px;
+    color: rgba(56, 143, 230, 0.8);
+}
+
+.mail-text p {
+    color: white;
+    font-size: 20px;
+}
+
+.contact-data .fa-phone {
+    font-size: 30px;
+    color: rgba(56, 143, 230, 0.8);
+}
+
+.contact-data {
+    margin-top: 58px;
+}
+
+.mail-text {
+    color: white;
+    font-size: 20px;
+}
+
+.contact-me,
+header,
+.about-page,
+.main-image,
+.hero-image,
+.resume-data {
+    max-width: 1550px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    width: 104%;
+    z-index: 5;
+    padding: 0px 5px;
+    top: 30px;
+    left: -6px;
+}
+
+.dropdown-menu li {
+    color: white;
+
+}
+
+.dropdown-menu li a {
+    display: inline-block;
+    color: rgb(88, 85, 85);
+    text-decoration: none;
+    width: 100%;
+}
+
+.dropdown-menu li a:hover {
+    color: white;
+
+
+}
+
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+
+.signature img {
+    margin-top: 11px;
+}
+
+.hero-image {
+    background-color: #2d2e2f;
+}
+
+.text-bold {
+    font-weight: 600;
+}
+
+/* .background-header .nav li a.active:after {
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    background-color: #4b8ef1;
+    content: '';
+    left: 50%;
+    bottom: -20px;
+    transform: translateX(-50%);
+  }
+  
+  .background-header .nav li:last-child a.active:after {
+    background-color: transparent;
+  }
+   */
+.list-item li a.active {
+    color: rgba(56, 143, 230, 0.8);
+}
+
+.master-head .list-item li a.active {
+    color: #f3f5f8;
+}
+
+.master-head .list-item .text-color a:hover,
+.master-head .list-item .text-color a:hover i {
+    color: rgba(56, 143, 230, 0.8);
+}
+
+/* .master-head .list-item li a.active 
+   {
+    display: block;
+    font-weight: 500;
+    font-size: 15px;
+    color: #2a2a2a;
+    text-transform: capitalize;
+    border: transparent;
+    letter-spacing: 1px;
+   } */
+.list-item li a.active .fa-house,
+.list-item li a.active .fa-address-card,
+.list-item li a.active .fa-list-check,
+.list-item li a.active .fa-address-book {
+    color: rgba(245, 247, 249, 0.999);
+}
+
+.sub-exper {
+    width: 70%;
+}
+
+@media screen and (max-width: 768px) {
+    .headers {
+        width: 100%;
+        position: static;
+    }
+
+    .list-item li {
+        display: inline-block;
+        width: auto;
+        padding: 2px 11px;
+    }
+
+    .portfolio-head {
+        font-size: 13px;
+        color: #585b5e;
+        display: flex;
+        justify-content: left;
+        width: 9%;
+        align-items: center;
+    }
+
+    .container-layout {
+        display: flex;
+        justify-content: left;
+    }
+
+    .list-item {
+        width: 84%;
+    }
+
+    .master-head .list-item li a.active {
+        font-size: 10px;
+    }
+
+    .text-color a {
+        color: rgb(88, 85, 85);
+        text-decoration: none;
+        font-weight: 500;
+        font-size: 13px;
+    }
+
+    .master-head {
+        display: flex;
+        justify-content: end;
+        text-align: center;
+        width: 90%;
+        align-items: center;
+    }
+
+    .user-data {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        color: white;
+        text-align: center;
+    }
+
+    .bio-data {
+        width: 43%;
+        position: relative;
+        top: 0px;
+        left: 20px;
+        color: white;
+    }
+
+    .user-role {
+        width: 50%;
+    }
+
+    .user-data-id {
+        margin-bottom: 20px;
+        font-size: 38px;
+        text-align: center;
+    }
+
+    .user-role-data {
+        font-size: 27px;
+        font-weight: 900;
+        margin: 0px;
+    }
+
+    .section-content {
+        font-size: 12px;
+    }
+
+    .content-data,
+    .bio-data {
+        font-size: 14px;
+    }
+
+    .list-point,
+    .personal-data li {
+
+        font-size: 16px;
+
+    }
+
+    .download-resume {
+        font-size: 13px;
+        font-weight: 700;
+    }
+
+    .signature img {
+        width: 100%;
+    }
+
+    .resume-header {
+        font-size: 13px;
+    }
+
+    .exp-data,
+    .code-skill-spect {
+        font-size: 13px;
+    }
+
+    .sub-exper {
+        font-size: 14px;
+    }
+
+    .key-skill {
+        font-size: 14px;
+    }
+
+    .cont-text-input {
+        font-size: 13px;
+    }
+
+    .submit-btn button {
+        width: 24%;
+        height: 35px;
+        background-color: #2d2e2f;
+        border: 2px solid rgba(56, 143, 230, 0.8);
+        font-weight: 600;
+        font-size: 13px;
+        color: rgba(56, 143, 230, 0.8);
+        margin-top: 22px;
+        text-transform: uppercase;
+    }
+
+    .text-area textarea {
+        width: 50%;
+        margin-top: 21px;
+        height: 118px;
+        background-color: #2d2e2f;
+        border: 2px solid white;
+        font-weight: 500;
+        font-size: 14px;
+        color: white;
+    }
+
+    .input-name {
+        width: 25%;
+    }
+
+    .contact-data .fa-envelope,
+    .contact-data .fa-location-dot,
+    .contact-data .fa-phone {
+        font-size: 24px;
+        color: rgba(56, 143, 230, 0.8);
+    }
+
+    .mail-text a {
+        color: white;
+        text-decoration: none;
+        font-size: 16px;
+    }
+
+    .mail-text p {
+        color: white;
+        font-size: 16px;
+    }
+
+
+}
+
+@media screen and (max-width:500px) {
+    .portfolio-head {
+        font-size: 8px;
+    }
+
+    .list-item li {
+        display: inline-block;
+        width: auto;
+        padding: 2px 3px;
+        margin-right: 12px;
+
+    }
+
+    .master-head {
+        display: flex;
+        justify-content: end;
+        text-align: center;
+        width: 88%;
+    }
+
+    .section-content {
+        font-size: 10px;
+    }
+
+    .content-data,
+    .bio-data {
+        font-size: 10px;
+    }
+
+    .list-point,
+    .personal-data li {
+        font-size: 14px;
+    }
+
+    .download-resume {
+        font-size: 10px;
+        font-weight: 700;
+        padding: 0px 5px;
+    }
+
+    .section-content {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 0px 25px;
+        color: rgba(56, 143, 230, 0.8);
+        border-bottom: dotted rgba(236, 240, 243, 0.8);
+    }
+
+    .content-data {
+
+        width: 80%;
+        margin-left: 26px;
+    }
+
+    .list-point {
+        width: 100%;
+        list-style-type: none;
+        line-height: 26px;
+        padding-left: 0px;
+    }
+
+    .signature {
+        display: flex;
+        justify-content: left;
+        width: 60%;
+        margin-left: 25px;
+    }
+
+    .resume-header {
+        font-size: 10px;
+    }
+
+    .exp-data,
+    .code-skill-spect {
+        font-size: 10px;
+    }
+
+    .user-experence {
+        padding-left: 26px;
+        color: white;
+        width: 93%;
+    }
+
+    .resume-header {
+        display: flex;
+        justify-content: space-between;
+        width: 86%;
+        border-bottom: dotted white;
+        padding: 0px 27px;
+    }
+
+    .design-one {
+        font-weight: bold;
+        font-size: 15px;
+    }
+
+    .web-layout {
+        padding-left: 35px;
+    }
+
+    .sub-exper {
+        font-size: 11px;
+    }
+
+    .key-skill {
+        font-size: 10px;
+        padding: 0px;
+    }
+
+    .cont-text-input {
+        font-size: 10px;
+    }
+
+    .input-email input {
+        width: 91%;
+        height: 37px;
+        background-color: #2d2e2f;
+        border: 2px solid white;
+        font-weight: 500;
+        font-size: 15px;
+        color: white;
+    }
+
+    .input-name input {
+        width: 100%;
+        height: 36px;
+        background-color: #2d2e2f;
+        border: 2px solid white;
+        font-weight: 500;
+        font-size: 15px;
+        color: white;
+    }
+
+    .submit-btn button {
+        width: 32%;
+        height: 35px;
+        background-color: #2d2e2f;
+        border: 2px solid rgba(56, 143, 230, 0.8);
+        font-weight: 600;
+        font-size: 11px;
+        color: rgba(56, 143, 230, 0.8);
+        margin-top: 22px;
+        text-transform: uppercase;
+
+    }
+
+    .mail-text a {
+        color: white;
+        text-decoration: none;
+        font-size: 13px;
+    }
+
+    .mail-text p {
+        color: white;
+        font-size: 14px;
+    }
+
+
+
+
+
+
+}
+
+
+
+
+
